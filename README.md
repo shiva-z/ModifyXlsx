@@ -1,3 +1,3 @@
 # ModifyXlsx
 ## Introduction
-Simple excel file editor for excel output of [Qerua](https://quera.ir) judging framework.
+Simple excel file editor for excel output of [Quera](https://quera.ir) judging framework.
